@@ -1,0 +1,1 @@
+export type BloodType = 'A' | 'B' | 'O' | 'AB' | 'unknown'
